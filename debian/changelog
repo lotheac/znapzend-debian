@@ -1,8 +1,8 @@
-znapzend (0.19.1-166-gb8c66ec) UNRELEASED; urgency=medium
+znapzend (0.19.1-167-g86363ad) UNRELEASED; urgency=medium
 
-  * b8c66eca3e60c11437c8752b44d4d8bdf9988faa
+  * 86363addc3a706f2270ad337f1d8e476024fec4c
 
- -- Lauri Tirkkonen <lauri@tuxera.com>  Wed, 6 Nov 2019 15:10:00 +0200
+ -- Lauri Tirkkonen <lauri@tuxera.com>  Wed, 6 Nov 2019 16:22:00 +0200
 
 znapzend (0.19.0-1) UNRELEASED; urgency=medium
 
