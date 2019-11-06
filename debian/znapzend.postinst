@@ -1,4 +1,4 @@
 #!/bin/sh -e
 
-adduser --quiet --system --group --no-create-home --home /run/znapzend \
+adduser --quiet --system --group --home /var/znapzend \
 	--gecos "unprivileged & user" znapzend
