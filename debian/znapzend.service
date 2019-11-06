@@ -9,6 +9,8 @@ EnvironmentFile=-/etc/default/znapzend
 ExecStart=/usr/bin/znapzend $ZNAPZENDOPTIONS
 ExecReload=/bin/kill -HUP $MAINPID
 Restart=on-failure
+User=znapzend
+Group=znapzend
 # might be neccessary on low power systems
 # Nice=19
 # IOSchedulingClass=2
